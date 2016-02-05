@@ -33,69 +33,69 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
   
     ∙ is the area of logic dealing with propositions.
   
-       ✓ **Inverse:** ¬p → ¬q
+       ✓ Inverse: ¬p → ¬q
   
-       ✓ **Converse:** q → p
+       ✓ Converse: q → p
   
-       ✓ **Contraposition:** ¬q → ¬p 
+       ✓ Contraposition: ¬q → ¬p 
   
 #WEEK 2
 
   ➤ **Logical Equivalences** are the rules that can help in simplifying a given proposition
   
-    ∙ **Identity Law**
+    ∙ Identity Law
         ✓ p ∧ T ≡ p
         
         ✓ p ∧ F ≡ p
     
-    ∙ **Domination Law** 
+    ∙ Domination Law
     
         ✓ p v T ≡ T  
         
         ✓ p ∧ F ≡ F 
         
-    ∙ **Idempotent Law**
+    ∙ Idempotent Law
     
         ✓ p v p ≡ p 
         
         ✓ p ∧ p ≡ p 
     
-    ∙ **Double Negation Law**
+    ∙ Double Negation Law
         
         ✓ ¬(¬p)≡ p 
         
         
-    ∙ **Commutative Law**
+    ∙ Commutative Law
     
         ✓ p v q ≡ q v p
         
         ✓ p ∧ q ≡ q ∧ p 
     
-    ∙ **Associative Law**
+    ∙ Associative Law
         
         ✓ (p v q) v r ≡ p v (q v r) 
         
         ✓ (p ∧ q) ∧ r ≡ p ∧ (q ∧ r)
         
-    ∙ **Distributive Law**
+    ∙ Distributive Law
         
         ✓ p v (q v r) ≡ (p v q) v (p v r)
         
         ✓ p ∧ (q ∧ r) ≡ (p ∧ q) ∧ (p ∧ r) 
         
-    ∙ **De Morgan's Law**
+    ∙ De Morgan's Law
         
         ✓ ¬(p ∧ q) ≡ ¬p ∧ ¬q
         
         ✓ ¬(p v q) ≡ ¬p v ¬q 
         
-    ∙ **Absorption Law**
+    ∙ Absorption Law
         
         ✓ p v (p ∧ q) ≡ p 
         
         ✓ p ∧ (p v q)≡ p 
         
-    ∙ **Negation Law**
+    ∙ Negation Law
         
         ✓ p v ¬p ≡ T
         
@@ -116,13 +116,13 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
  ➤ **Quantifiers**
  
-   • **Universal Quantifier**
+    • Universal Quantifier
    
       - "for all"
    
       - Symbol: ∀(x)
    
-   • **Existential Quantifier**
+    • Existential Quantifier
    
       - "there exist"
    
@@ -132,25 +132,25 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
   ➤ Introduction to **Methods of Proof**
     
-    ∙ **Direct Proof:**
+    ∙ Direct Proof:
     
        First Step: Assume that "p" is TRUE
     
        Second Step: Show that "q" is also TRUE
 
-    ∙ **Indirect Proof:**
+    ∙ Indirect Proof:
     
         First Step: Assume that "¬q" is TRUE
         
         Second Step: Show that "¬p" is also TRUE
         
-    ∙ **Proof by Contradiction:**
+    ∙ Proof by Contradiction:
         
         First Step: Assume that the "antecedent" is FALSE
         
         Second Step: Using an assumption and other facts show that it is a contradiction
         
-    ∙ **Proof by Contraposition:**
+    ∙ Proof by Contraposition:
     
         First Step: Assume that the "premise" is FALSE
         
@@ -160,9 +160,12 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
   ➤ **Mathematical Induction**
      
-      - A means of proving a theorem by showing that if it is true of any particular case, it is true of the next case in a         series, and then showing that it is indeed true in one particular case.
+      - A means of proving a theorem by showing that if it is true of any particular case, it is true of the next case in a          
+       series, and then showing that it is indeed true in one particular case.
   
-      - It is a form of direct proof, and it is done in two steps. The first step, known as the **Basic Step**, is to prove         the given statement for the first natural number. The second step, known as the **Inductive step**,it is to prove           that the given statement for any one natural number implies the given statement for the next natural number.  
+      - It is a form of direct proof, and it is done in two steps. The first step, known as the **Basic Step**, is to prove        
+       the given statement for the first natural number. The second step, known as the **Inductive step**,it is to prove           
+       that the given statement for any one natural number implies the given statement for the next natural number.  
       
   ➤ **Summation**
   
@@ -176,11 +179,11 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
       
       Steps:
       
-      1.) **Basic Step**
+      1.) Basic Step
        
           - Specify the value of a given as a function a "0" 
       
-      2.) **Recursive Step**
+      2.) Recursive Step
       
           - Create a rule in finding its value at a certain integer from its values at smaller integers.
 
