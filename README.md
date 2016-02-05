@@ -160,11 +160,16 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
   ➤ **Mathematical Induction**
      
-      - A means of proving a theorem by showing that if it is true of any particular case, it is true of the next case in a          
-       series, and then showing that it is indeed true in one particular case.
+      - A means of proving a theorem by showing that if it is true of any particular case, it is true of the next case in   
+      
+      
+        series, and then showing that it is indeed true in one particular case.
+        
   
-      - It is a form of direct proof, and it is done in two steps. The first step, known as the **Basic Step**, is to prove        
-       the given statement for the first natural number. The second step, known as the **Inductive step**,it is to prove           
+      - It is a form of direct proof, and it is done in two steps. The first step, known as the Basic Step, is to prove        
+       
+       the given statement for the first natural number. The second step, known as the Inductive step,it is to prove           
+       
        that the given statement for any one natural number implies the given statement for the next natural number.  
       
   ➤ **Summation**
