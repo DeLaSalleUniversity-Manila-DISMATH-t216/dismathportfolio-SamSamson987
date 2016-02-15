@@ -192,7 +192,8 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
       2.) Recursive Step
       
           - Create a rule in finding its value at a certain integer from its values at smaller integers.
-#WEEK5
+          
+#WEEK 5
 
   ➤ **Program Correctness**
   
