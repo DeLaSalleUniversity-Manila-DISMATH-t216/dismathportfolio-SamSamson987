@@ -192,7 +192,64 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
       2.) Recursive Step
       
           - Create a rule in finding its value at a certain integer from its values at smaller integers.
+#WEEK5
 
+  ➤ **Program Correctness**
+  
+    Includes 2 steps:
+    
+    1.) Partial correctness
+         
+          - initial assertion(input)
+          
+          - final assertion (output)
+    
+    2.) Show that the program terminates correctly
+  
+  ➤ **Hoare Triple**
+  
+      •Symbol: p{S}q
+      
+         note:
+          
+           - p = initial assertion
+         
+           - {S} = program segment
+         
+           - q = final assertion
+           
+      • Steps:
+      
+        1.) Assume tha p is TRUE
+        
+        2.) Substitute to the program {S}, showing that q is TRUE
+  
+  ➤ **Power Series**
+  
+      - Example: Zeno's Paradox
+      
+      - Can be solved using GEOMETRIC SERIES formula:
+      
+        a1/ 1-r
+  
+  ➤ **Introduction to set theory**
+  
+      • Set
+      
+         - is an unordered collection of objects
+        
+            a.)Set Difference
+            
+                 - (A-B) or (A/B)
+                 
+            b.) Set Intersection
+            
+                 - A△B
+                 
+      • Power Set
+      
+          - is a set containing all subsets 
+     
   
 
 
