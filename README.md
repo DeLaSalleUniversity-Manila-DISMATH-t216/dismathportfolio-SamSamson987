@@ -197,15 +197,15 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
   ➤ **Program Correctness**
   
-    Includes 2 steps:
+    •Includes 2 steps:
     
-    1.) Partial correctness
+      1.) Partial correctness
          
           - initial assertion(input)
           
           - final assertion (output)
     
-    2.) Show that the program terminates correctly
+      2.) Show that the program terminates correctly
   
   ➤ **Hoare Triple**
   
@@ -237,7 +237,7 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
   
       • Set
       
-         - is an unordered collection of objects
+         - Is an unordered collection of objects
         
             a.)Set Difference
             
@@ -249,8 +249,34 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
                  
       • Power Set
       
-          - is a set containing all subsets 
-     
+          - Is a set containing all subsets 
   
+#WEEK 6 
+ 
+  ➤ **Cardinality**
+    
+    • Is the total number of distinct elements.
+    
+    •  New Terminology:
+        
+        ✓ ℵ₀ 
+           
+          -is pronounced as “aleph-zero"/“alephnought”/“aleph-null”
+  
+  ➤ **Review**
+  
+   • Nested Quantifiers
+   
+      - 2 quantifiers are nested if one is within the sccope of the other.
+      
+      - Examples:
+      
+          ✓ ∀x∀y(x≠y) 
+          
+          ✓ ∃x∃y(x≠y)
+          
+          ✓ ∀x∃y(x≠y)
+          
+          ✓ ∃y∀x(x≠y)
 
 
