@@ -278,5 +278,22 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
           ✓ ∀x∃y(x≠y)
           
           ✓ ∃y∀x(x≠y)
+  
+  ➤ **Functions**
+    
+    • Types:
+      
+       ✓ One-to-one function
+       
+          - each domain is assigned to a certain co-domain
+          
+          - no common co-domain
+       
+       ✓ Onto Function
+       
+         - each co-domain is assigned to a domain.
+         
+         - no co-domain is left without a partner. 
+  
 
 
