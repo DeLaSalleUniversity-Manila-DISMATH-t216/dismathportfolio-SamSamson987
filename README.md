@@ -294,6 +294,13 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
          - each co-domain is assigned to a domain.
          
          - no co-domain is left without a partner. 
-  
+
+#WEEK 7
+
+➤ No Classes for the whole week
+
+#WEEK 8
+
+➤
 
 
