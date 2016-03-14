@@ -301,6 +301,148 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 #WEEK 8
 
-➤
+➤ **Algorithm**
 
+    - is a finite set of precise instruction
+    
+       ✓ Precondition
+    
+           - describes the input
+    
+       ✓ Postcondition
+    
+           - describes what the output should satisfy
+    
+        ✓ Properties:
+      
+           • Input
+      
+           • Output
+      
+           • Definiteness
+      
+           • Correctness
+      
+           • Finiteness
+           
+           • Generality
+    
+➤ **Psuedocode**
 
+    - is a high level description of an algorithm that uses the structural conventions of programming knowledge
+
+#WEEK 9
+
+➤ **Seaching Algorithm**
+
+    - The problem of locating an element in an ordered list
+
+➤ **Linear Search**
+
+    - Precondition: ({A1,A2,...,Ai,...An})
+    
+      Postcondition: location of x (loc)
+      
+      i=1
+      
+      while [(x≠A)^(i≤n)]
+       
+          i = i+1
+        
+        if(i≤n)
+          
+          loc = i
+        
+        else
+        
+           loc = -1
+
+➤ **Binary Search**
+
+    -  Precondition: ({A1,A2,...,Ai,...An})
+    
+       Postcondition: location of x (loc)
+    
+          while [(i≠j) ≠ (i>j)]
+              
+             mid = [(i+j)/2]
+             
+                if x>A(mid) 
+                   
+                   then i = 1+mid
+                   
+                else j=mid
+                
+                if (x==Ai)
+                
+                    loc=i
+                
+                else 
+                
+                   loc = -1;
+    
+#WEEK 10
+
+➤ **Sorting Algorithm**
+
+    - the problem of putting elements in increasing order
+
+➤ **Bubble sort**
+
+    - Precondition: ({A1,A2,...,Ai,...An})
+    
+      Postcondition: (X1<X2<...<Xn)
+      
+          for j: 1 to n-1
+      
+             for i: 1 to n-j
+        
+                if(Ai > Aj+1)
+          
+                   swap (Ai,Ai+1)
+
+➤ **Insertion sort**
+ 
+    - Precondition: ({A1,A2,...,Ai,...An}) ∈ n≥2 for j= 2 to n
+    
+      Postcondition: (X1<X2<...<Xn)
+      
+          for j = 2 to n
+              
+              i = 1
+              
+          while Aj>Ai
+            
+              i = i+1
+              
+           m = Aj
+           
+           for k = 0 to j-i-1
+           
+            Aj-k = Aj-i-1
+          
+          Ai = m
+
+➤ **Greedy Algorithm**
+  
+  - Selects the best choice instead of considering all sequences
+ 
+  - applied in optimization problems
+
+  - Precondition: ({C1,C2,...,Ci,...Cn})
+    
+      Postcondition: (C1>C2>...>Cni n ∈ Z+) 
+      
+          for i = 1 to 4 
+      
+            while(n≥Ci)
+        
+                n = n-Ci
+          
+                   n = n+1
+
+#WEEK 11
+
+➤ 
+
+➤ 
