@@ -443,6 +443,14 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 #WEEK 11
 
-➤ 
+➤ **Growth of Functions**
+
+    - is often described using the big o notation
+
+➤ **Big O Notation**
+    
+    - Let f and g be functions from R to Ri f(x) is O(g(x)) if there are constants c and k such that 
+       
+       |f(x)|≤ C|g(x)| whenever x>k
 
 ➤ 
