@@ -455,12 +455,12 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 ➤ **Big Omega**
 
-   - lower bound of a function
+    - lower bound of a function
     
 ➤ **Big Theta**
 
-   - lower and upper bound of a function
+    - lower and upper bound of a function
    
 ➤ **Complexity of Algorithms**
 
-   - can be expressed in term of the number of operationsused by the algorithm when the input has a particular size
+    - can be expressed in term of the number of operationsused by the algorithm when the input has a particular size
