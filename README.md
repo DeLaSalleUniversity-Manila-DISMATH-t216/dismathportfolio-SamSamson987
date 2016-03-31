@@ -464,3 +464,66 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 ➤ **Complexity of Algorithms**
 
     - can be expressed in term of the number of operationsused by the algorithm when the input has a particular size
+
+#WEEK 12
+
+➤ No Classes for the whole week
+
+#WEEK 13
+
+➤ **Graph Theory**
+
+    - consist of vertices/nodes and degrees/edges
+
+➤ **Handshaking Theorem**
+
+    - 2e = Σ(degrees)*v
+    
+➤ **Euler Path**
+
+    - covers all the edges/degrees
+    - is open 
+    - has a different starting and ending point
+    
+➤ **Euler Circuit**
+
+    - covers all the edges/degrees
+    - is closed 
+    - has the same starting and ending point
+    
+➤ **Hamilton Path**
+
+    - covers all the nodes/vertices
+    - is open
+    - has a different starting and ending point
+    
+
+➤ **Hamilton Circuit**
+
+    - covers all the nodes/vertices
+    - is closed
+    - has the same starting and ending point
+
+➤ **Matrices**
+
+    • Adjacency Matrix
+       - relationship between the nodes/vertices
+       
+    • Incidence Matrix
+       - relationship between the edges/degrees
+
+➤ **Isomorphism**
+
+    - is the comparison of 2 graphs
+
+➤ **Planar**
+
+    - is a plane that has no intersecting lines/edges/degrees
+
+➤ **Non-Planar**
+
+    - is a plane that has intersecting lines/edges/degrees
+
+➤ **Euler's Formula**
+
+    ✓ r = e(edges) - v(vertices) + 2
