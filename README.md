@@ -477,7 +477,7 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 ➤ **Handshaking Theorem**
 
-    - 2e = Σ(degrees)*v
+    - formula: 2e = Σ(degrees)*v
     
 ➤ **Euler Path**
 
@@ -526,4 +526,4 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 ➤ **Euler's Formula**
 
-    ✓ r = e(edges) - v(vertices) + 2
+    - formula: r = e(edges) - v(vertices) + 2
