@@ -528,7 +528,7 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 
     - formula: r = e(edges) - v(vertices) + 2
 
-#WEEK 13
+#WEEK 14
 
 ➤ **Graph Coloring**
 
