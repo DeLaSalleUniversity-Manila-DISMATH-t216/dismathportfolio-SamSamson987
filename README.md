@@ -1,4 +1,4 @@
-# dismathportfolio-SamSamson987
+# dismathportfolio-Samantha Dianne Samson EK
 dismathportfolio-SamSamson987 created by Classroom for GitHub
 
 #WEEK 1
@@ -527,3 +527,41 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
 ➤ **Euler's Formula**
 
     - formula: r = e(edges) - v(vertices) + 2
+
+#WEEK 13
+
+➤ **Graph Coloring**
+
+    - is the assignment of colors to each node in a graph considering the adajaceny relationship between them.
+    
+    • Chromatic Number
+    
+       - is the least number of colors needed in coloring a graph
+       
+     • Four color Theorem
+     
+       - states that the chomatic number of a planar graph should not be grater than 4
+
+➤ **Trees**
+
+     - is simply an undirected graph
+     
+     - it has no circuit in it
+  
+     • Rooted tree
+     
+        - is a tree by which a node is assigned as the root and has edges that is directed away from it
+        
+    • Subtree
+       
+       - is a branch-like part of the main tree 
+
+➤ **Language and Grammar**
+
+     -
+
+➤ **Finite State Machine**
+
+
+
+
