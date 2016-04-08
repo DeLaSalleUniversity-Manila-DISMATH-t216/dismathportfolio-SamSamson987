@@ -614,27 +614,49 @@ dismathportfolio-SamSamson987 created by Classroom for GitHub
   
     - relationship of elements between two sets.
     
-      ✓ Binary relation - realation is from set A to set B and is a subset of A x B.
+      ✓ Binary relation 
+         
+         - realation is from set A to set B and is a subset of A x B.
       
-      ✓ Reflexive relation - if (a,a) is an element of R (relation) for every element a in set A.
+      ✓ Reflexive relation 
       
-      ✓ Symmetric relation - if (b,a) is an element of R whenever (a,b) is an element of R, for all a,b in set A; 
+         - if (a,a) is an element of R (relation) for every element a in set A.
+      
+      ✓ Symmetric relation 
+      
+         - if (b,a) is an element of R whenever (a,b) is an element of R, for all a,b in set A; 
         antisymmetric - if a = b.
         
-      ✓ Transitive relation- whenever (a,b) and (b,c) are elements of R, then (a.c) is an element of R; a,b,c are in set A.
+      ✓ Transitive relation
       
-      ✓ Equivalence relation - a relation that is reflexive, symmetric and transitive.
+         - whenever (a,b) and (b,c) are elements of R, then (a.c) is an element of R; a,b,c are in set A.
       
-        • Equivalencee class (a) - set of all elements that are related to an element a of A.
+      ✓ Equivalence relation 
         
-      ✓ n-ary relation - is the relationship of elements from two or more sets; A1 x A2 x An, where A-domains and n-degree.
+         - a relation that is reflexive, symmetric and transitive.
       
-➤ Composite (S o R) - (a,b) and (b,c) such that (a,c), from sets A, B, C.
+         • Equivalencee class (a) 
+        
+           - set of all elements that are related to an element a of A.
+        
+      ✓ n-ary relation 
+      
+          - is the relationship of elements from two or more sets; A1 x A2 x An, where A-domains and n-degree.
+      
+➤ Composite (S o R) 
 
-➤ Partial ordering - is a reflective, antisymmetric and transitive relation on a set S
+       - (a,b) and (b,c) such that (a,c), from sets A, B, C.
+
+➤ Partial ordering 
+
+       - is a reflective, antisymmetric and transitive relation on a set S
   
-  ✓ poset - partially ordered set.
+            ✓ poset - partially ordered set.
 
-➤ Lexicographic order - based in the ordering of the letters in the alphabet
+➤ Lexicographic order 
 
-➤ Lattices - a partially unordered set in which every pair of elements has both a least upper bound and a greatest lower bound.
+    - based in the ordering of the letters in the alphabet
+
+➤ Lattices 
+
+    - a partially unordered set in which every pair of elements has both a least upper bound and a greatest lower bound.
